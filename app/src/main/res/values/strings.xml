@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw8</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="add_product">Add Product</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+</resources>
